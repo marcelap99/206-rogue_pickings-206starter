@@ -8,3 +8,5 @@
 -Responsive Fonts using em
 
 -Mobile First approach
+
+-Media Queries (break points)at min-width 768 & min width 1200.
